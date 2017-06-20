@@ -2,6 +2,8 @@
 Minimal R package: cats
 =======================
 
+![cats](http://www.ipopcon.kr/public/upload/admin/thumbnail/20170213/4558a088ff26446e16cd0663608ded03.jpg)
+
 R Programming 수강생 여러분들께
 
 <https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/>
