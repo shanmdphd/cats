@@ -1,9 +1,10 @@
 Package: cats
-Title: Love Cats or Not
-Version: 0.0.0.9000
+Title: A Test of Loving Cats or Not
+Version: 0.0.1
 Authors@R: person("Sungpil", "Han", email = "shan@acp.kr", role = c("aut", "cre"))
 Description: Express your love of cats inspired by the blog post by Hilary Parker <https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/>
 Depends: R (>= 3.4.0)
+URL: https://github.com/shanmdphd/cats
 License: MIT
 Encoding: UTF-8
 LazyData: true
